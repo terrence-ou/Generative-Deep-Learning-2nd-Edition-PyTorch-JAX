@@ -1,0 +1,5 @@
+jax==0.4.10 # On Ubuntu 22.04
+flax==0.6.10
+optax==0.1.5
+clu==0.0.9
+matplotlib==3.7.1
