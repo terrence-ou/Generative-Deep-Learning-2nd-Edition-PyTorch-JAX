@@ -7,7 +7,7 @@ I started my journey of deep learning with the help of the first edition of this
 We now have other popular deep learning frameworks, like PyTorch and JAX, used by various ML communities. Therefore, I want to translate the Tensorflow and Keras code provided in the book to PyTorch and JAX to help more people study this valuable book more easily.
 
 ### **File structure**
-The files are organized by framework:
+The files are organized by frameworks:
 ```bash
 ├── JAX_FLAX
 │   ├── chapter_**_**
