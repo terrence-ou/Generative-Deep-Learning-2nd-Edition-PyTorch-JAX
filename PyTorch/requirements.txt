@@ -2,7 +2,8 @@
 torch==2.0.1
 torchvision==0.15.2
 torchaudio==2.0.2
-
 matplotlib==3.7.1
 tqdm==4.65.0
 torchsummary==1.5.1
+kaggle==1.5.13
+pandas==2.0.2
