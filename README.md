@@ -30,7 +30,8 @@ conda create -n GDL_PyTorch python==3.9
 conda activate GDL_PyTorch
 pip install -r requirements.txt
 ```
-*if you're using WSL, please add `export LD_LIBRARY_PATH=/usr/lib/wsl/lib:$LD_LIBRARY_PATH` to `~/.bashrc`*<br> 
+NOTE: If you're using PyTorch on WSL, please add `export LD_LIBRARY_PATH=/usr/lib/wsl/lib:$LD_LIBRARY_PATH` to `~/.bashrc` to avoid kernel restarting problems.<br>
+<br> 
 Configure `JAX` environment:
 ```bash
 cd JAX_FLAX
