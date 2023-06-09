@@ -1,6 +1,6 @@
-# **Generative Deep Learning 2nd Edition in JAX and PyTorch**
+# **Generative Deep Learning 2nd Edition in JAX and PyTorch 2.0**
 
-This repository includes the Pytorch/JAX implementations of examples in **Generative Deep Learning 2nd Edition** by *David Foster*. You can find the physical/kindle book on [Amazon](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1098134184/ref=sr_1_1?keywords=generative+deep+learning%2C+2nd+edition&qid=1684898042&sprefix=generative%2Caps%2C96&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc) or read it online through [O'REILLY library](https://learning.oreilly.com/home/) (paid subscription needed).
+This repository includes the Pytorch 2.0 and JAX implementations of examples in **Generative Deep Learning 2nd Edition** by *David Foster*. You can find the physical/kindle book on [Amazon](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1098134184/ref=sr_1_1?keywords=generative+deep+learning%2C+2nd+edition&qid=1684898042&sprefix=generative%2Caps%2C96&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc) or read it online through [O'REILLY library](https://learning.oreilly.com/home/) (paid subscription needed).
 
 ### **Motivation of this project**
 I started my journey of deep learning with the help of the first edition of this book. The author introduces topics of generative deep learning in clear and concise way that hels me quickly grasp the key points of type of algorithms without being freak out by heavy mathematics. The codes in the book, written in Tensorflow and Keras, helps me quickly making theories into practice.<br>
