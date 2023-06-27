@@ -9,3 +9,4 @@ kaggle==1.5.13
 pandas==2.0.2
 scipy==1.10.1
 torcheval==0.0.6
+tensorboard==2.13.0
