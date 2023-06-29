@@ -41,3 +41,15 @@ pip install -r requirements.txt
 ```
 
 `.ipynb` is the extension of the python notebook; I use [Jupyter Lab](https://jupyter.org/install) to run the notebooks in this repository.
+
+## **Model list**
+### *Chapter 2 Deep Learning*
+- MLP ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_02_deeplearning/01_MLP.ipynb)|[JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_02_deeplearning/01_MLP.ipynb)) 
+- CNN ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_02_deeplearning/02_CNN.ipynb)|[JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_02_deeplearning/02_CNN.ipynb))
+### *Chapter 3 Variational AutoEncoder*
+- AutoEncoder ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_03_vae/01_autoencoder.ipynb)|[JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_03_vae/01_autoencoder.ipynb))
+- VAE (FashionMNIST) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_03_vae/02_vae_fashion.ipynb)|[JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_03_vae/02_vae_fashion.ipynb))
+- VAE (CelebA Dataset) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_03_vae/03_vae_face.ipynb)|[JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_03_vae/03_vae_faces.ipynb))
+### *Chapter 4 Generative Adversarial Networks*
+- DCGAN ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/01_dcgan.ipynb)|JAX)
+- WGAN-GP ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/02_wgan_gp.ipynb)|JAX)
