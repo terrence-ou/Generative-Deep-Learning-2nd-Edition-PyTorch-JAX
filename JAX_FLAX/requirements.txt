@@ -7,3 +7,5 @@ tensorflow==2.12.0
 tensorflow-datasets==4.9.2
 kaggle==1.5.13
 pandas==2.0.2
+jupyterlab
+ipywidgets
