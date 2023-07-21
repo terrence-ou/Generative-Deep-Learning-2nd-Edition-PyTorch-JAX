@@ -55,4 +55,4 @@ pip install -r requirements.txt
 - WGAN-GP ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/02_wgan_gp.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_04_gan/02_wgan_gp.ipynb))
 - Conditional GAN ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/03_cgan.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_04_gan/03_cgan.ipynb))
 ### *Chapter 5 Autogressive Model*
-- LSTM ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_05_autogressive/01_lstm.ipynb) | JAX)
+- LSTM ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_05_autogressive/01_lstm.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_05_autogressive/01_lstm.ipynb))
