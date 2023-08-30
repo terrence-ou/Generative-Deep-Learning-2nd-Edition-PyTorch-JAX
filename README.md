@@ -57,3 +57,4 @@ pip install -r requirements.txt
 ### *Chapter 5 Autoregressive Model*
 - LSTM ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_05_autoregressive/01_lstm.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_05_autoregressive/01_lstm.ipynb))
 - PixelCNN (FashionMNIST) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_05_autoregressive/02_pixelcnn.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_05_autoregressive/02_pixelcnn.ipynb))
+### *Normalizing Flow Models*
