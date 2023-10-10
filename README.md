@@ -54,8 +54,10 @@ pip install -r requirements.txt
 - DCGAN ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/01_dcgan.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_04_gan/01_dcgan.ipynb))
 - WGAN-GP ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/02_wgan_gp.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_04_gan/02_wgan_gp.ipynb))
 - Conditional GAN ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_04_gan/03_cgan.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_04_gan/03_cgan.ipynb))
-### *Chapter 5 Autoregressive Model*
+### *Chapter 5 Autoregressive Models*
 - LSTM ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_05_autoregressive/01_lstm.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_05_autoregressive/01_lstm.ipynb))
 - PixelCNN (FashionMNIST) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_05_autoregressive/02_pixelcnn.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_05_autoregressive/02_pixelcnn.ipynb))
 ### *Chapter 6 Normalizing Flow Models*
 - RealNVP ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_06_normalizing_flow/01_realnvp.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_06_normalizing_flow/01_realnvp.ipynb))
+### *Chapter 7 Energy-Based Models*
+- EBM (MNIST) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_07_energy_based_model/01_ebm.ipynb) | JAX)
