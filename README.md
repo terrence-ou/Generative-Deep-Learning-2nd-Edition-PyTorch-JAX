@@ -60,4 +60,4 @@ pip install -r requirements.txt
 ### *Chapter 6 Normalizing Flow Models*
 - RealNVP ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_06_normalizing_flow/01_realnvp.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_06_normalizing_flow/01_realnvp.ipynb))
 ### *Chapter 7 Energy-Based Models*
-- EBM (MNIST) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_07_energy_based_model/01_ebm.ipynb) | JAX)
+- EBM (MNIST) ([Pytorch](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/PyTorch/chapter_07_energy_based_model/01_ebm.ipynb) | [JAX](https://github.com/terrence-ou/Generative-Deep-Learning-2nd-Edition-PyTorch-JAX/blob/main/JAX_FLAX/chapter_07_energy_based_model/01_ebm.ipynb))
